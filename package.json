@@ -1,6 +1,7 @@
 {
   "name": "canis-angular",
   "version": "0.0.0",
+  "homepage": "https://20203tn077.github.io/canis-angular-test",
   "scripts": {
     "ng": "ng",
     "deploy": "gh-pages -d dist",
